@@ -1,7 +1,7 @@
 function calculateGrade(p) {
   //your code here
 	let ans="";
-if(p>90){
+if(p>=90){
 	ans='A'
 }else if(p>=80 && p<90){
 	ans='B'
